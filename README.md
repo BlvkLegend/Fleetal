@@ -2,7 +2,7 @@
 
 A portfolio-quality logistics SaaS dashboard built to demonstrate advanced React, Tailwind CSS, and frontend architecture skills. Designed to feel like a product someone would actually pay for.
 
-**Live demo:** `https://yourusername.github.io/trackflow/`
+**Live demo:** `https://blvklegend.github.io/Fleetal/`
 
 ---
 
