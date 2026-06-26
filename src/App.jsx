@@ -26,7 +26,7 @@ const qc = new QueryClient({
 export default function App() {
   return (
     <QueryClientProvider client={qc}>
-      <BrowserRouter basename="/trackflow">
+      <BrowserRouter basename="/Fleetal">
         <Routes>
           <Route element={<AppLayout />}>
             <Route index element={<Dashboard />} />
