@@ -1,4 +1,4 @@
-name: Deploy Fleetal to GitHub Pages
+name: Deploy Trackflow to GitHub Pages
 
 on:
   push:
